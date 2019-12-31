@@ -5,7 +5,7 @@
 .pub/
 pubspec.lock
 
-build/
+#build/
 
 .atom/
 .idea/

@@ -1,0 +1,7 @@
+version: "Apple Swift version 5.1.3 (swiftlang-1100.0.282.1 clang-1100.0.33.15)"
+options: "32c8dabcc369ff24bc22ddb1904221ef"
+build_time: [1577783423, 935144000]
+inputs:
+  "/Users/xavier/projects/bug_flutter_analyze/playground/flutter_blue_bug/example/macos/Runner/MainFlutterWindow.swift": [9223372036, 854775807]
+  "/Users/xavier/projects/bug_flutter_analyze/playground/flutter_blue_bug/example/macos/Runner/AppDelegate.swift": [9223372036, 854775807]
+  "/Users/xavier/projects/bug_flutter_analyze/playground/flutter_blue_bug/example/macos/Flutter/GeneratedPluginRegistrant.swift": [9223372036, 854775807]
